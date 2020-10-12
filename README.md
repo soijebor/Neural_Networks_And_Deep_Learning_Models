@@ -27,7 +27,7 @@ Using my knowledge of machine learning and neural network model building, the te
   
 ## ***Challenge Summary***
 
-Be sure to identify the following in your dataset:
+***Identify the following in your dataset:***
 
   * What variable(s) are considered the target for your model? - IS_SUCCESSFUL when i got an accuracy of 72% and SPECIAL_CONSIDERATIONS when i got an accuracy of 99.9%
 
