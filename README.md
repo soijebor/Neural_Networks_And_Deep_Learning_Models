@@ -29,7 +29,7 @@ Using my knowledge of machine learning and neural network model building, the te
 
 ***Identify the following in your dataset:***
 
-  * What variable(s) are considered the target for your model? - IS_SUCCESSFUL when i got an accuracy of 72.6% and SPECIAL_CONSIDERATIONS when i got an accuracy of 99.9%
+  * What variable(s) are considered the target for your model? - IS_SUCCESSFUL when I got an accuracy of 72.6% and SPECIAL_CONSIDERATIONS when I got an accuracy of 99.9%
 
   * What variable(s) are considered to be the features for your model? - APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, ORGANIZATION, INCOME_AMT, ASK_AMT, IS_SUCCESSFUL, and SPECIAL_CONSIDERATIONS
 
@@ -44,7 +44,7 @@ Using my knowledge of machine learning and neural network model building, the te
 
  * Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
  
-   * I was not able to achieve my target model performance when i used "IS_SUCCESSFUL" as the target, the best accuracy i got was 72.6% but when i changed my target  model to SPECIAL_CONSIDERATIONS, the best accuracy i got was 99.9% which makes SPECIAL_CONSIDERATIONS seem redundant.
+   * I was not able to achieve my target model performance when I used "IS_SUCCESSFUL" as the target, the best accuracy I got was 72.6% but when I changed my target  model to SPECIAL_CONSIDERATIONS, the best accuracy i got was 99.9% which makes SPECIAL_CONSIDERATIONS seem redundant.
    
  * If you were to implement a different model to solve this classification problem, which would you choose? Why?
  
