@@ -31,7 +31,7 @@ Using my knowledge of machine learning and neural network model building, the te
 
   * What variable(s) are considered the target for your model? 
   
-     * IS_SUCCESSFUL(accuracy of 72.6%) and SPECIAL_CONSIDERATIONS (accuracy of 99.9%)
+     * IS_SUCCESSFUL(accuracy of 72.6%) and SPECIAL_CONSIDERATIONS (accuracy of 99.9%).
 
   * What variable(s) are considered to be the features for your model? 
   
@@ -39,7 +39,7 @@ Using my knowledge of machine learning and neural network model building, the te
 
   * What variable(s) are neither and should be removed from the input data? 
   
-    * EIN, NAME, STATUS, USE_CASE
+    * EIN, NAME, STATUS, USE_CASE.
   
 ***Results:***
 
