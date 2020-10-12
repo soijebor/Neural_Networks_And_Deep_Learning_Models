@@ -44,6 +44,7 @@ Using my knowledge of machine learning and neural network model building, the te
 ***Results:***
 
  * How many neurons and layers did you select for your neural network model? Why?
+ 
    * For IS_SUCCESSFUL, 1 input layer and 3 hidden_nodes_layer of 32, 15 and 1 respectively using basic neural network and 80, 40 and 20 respectively using deep neural network. The number of epochs for each were 100. This number was achieved based on try and error to increase the accuracy of the model.
    
    * For SPECIAL_CONSIDERATIONS, 1 input layer and 3 hidden_nodes_layer of 18, 9 and 1 respectively using basic neural network and 28, 14 and 7 respectively using deep neural network. The number of epochs for each were 100. This number was achieved based on try and error to increase the accuracy of the model.
