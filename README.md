@@ -29,7 +29,7 @@ Using my knowledge of machine learning and neural network model building, the te
 
 ***Identify the following in your dataset:***
 
-  * What variable(s) are considered the target for your model? - IS_SUCCESSFUL when i got an accuracy of 72% and SPECIAL_CONSIDERATIONS when i got an accuracy of 99.9%
+  * What variable(s) are considered the target for your model? - IS_SUCCESSFUL when i got an accuracy of 72.6% and SPECIAL_CONSIDERATIONS when i got an accuracy of 99.9%
 
   * What variable(s) are considered to be the features for your model? - APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, ORGANIZATION, INCOME_AMT, ASK_AMT, IS_SUCCESSFUL, and SPECIAL_CONSIDERATIONS
 
