@@ -29,18 +29,24 @@ Using my knowledge of machine learning and neural network model building, the te
 
 ***Identify the following in your dataset:***
 
-  * What variable(s) are considered the target for your model? - IS_SUCCESSFUL when I got an accuracy of 72.6% and SPECIAL_CONSIDERATIONS when I got an accuracy of 99.9%
+  * What variable(s) are considered the target for your model? 
+  
+     * IS_SUCCESSFUL(accuracy of 72.6%) and SPECIAL_CONSIDERATIONS (accuracy of 99.9%)
 
-  * What variable(s) are considered to be the features for your model? - APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, ORGANIZATION, INCOME_AMT, ASK_AMT, IS_SUCCESSFUL, and SPECIAL_CONSIDERATIONS
+  * What variable(s) are considered to be the features for your model? 
+  
+    * APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, ORGANIZATION, INCOME_AMT, ASK_AMT, IS_SUCCESSFUL, and SPECIAL_CONSIDERATIONS.
 
-  * What variable(s) are neither and should be removed from the input data? - EIN, NAME, STATUS, USE_CASE
+  * What variable(s) are neither and should be removed from the input data? 
+  
+    * EIN, NAME, STATUS, USE_CASE
   
 ***Results:***
 
  * How many neurons and layers did you select for your neural network model? Why?
    * For IS_SUCCESSFUL, 1 input layer and 3 hidden_nodes_layer of 32, 15 and 1 respectively using basic neural network and 80, 40 and 20 respectively using deep neural network. The number of epochs for each were 100. This number was achieved based on try and error to increase the accuracy of the model.
    
-   * For SPECIAL_CONSIDERATIONS, 1 input layer and 3 hidden_nodes_layer of 18, 9 and 1 respectively using basic neural network and 28, 14 and 7 respectively using deep neural network.. The number of epochs for each were 100. This number was achieved based on try and error to increase the accuracy of the model.
+   * For SPECIAL_CONSIDERATIONS, 1 input layer and 3 hidden_nodes_layer of 18, 9 and 1 respectively using basic neural network and 28, 14 and 7 respectively using deep neural network. The number of epochs for each were 100. This number was achieved based on try and error to increase the accuracy of the model.
 
  * Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
  
