@@ -38,7 +38,13 @@ Be sure to identify the following in your dataset:
 ***Results:***
 
  * How many neurons and layers did you select for your neural network model? Why?
-   * 1 input layer and 2 hidden_nodes_layer, then  were used. The number of nodes for each were 100. This number was achieved based on try and error to increase the accuracy of the model.
+   * For IS_SUCCESSFUL, 1 input layer and 3 hidden_nodes_layer of 32, 15 and 1 respectively using basic neural network and 80, 40 and 20 respectively using deep neural network. The number of epochs for each were 100. This number was achieved based on try and error to increase the accuracy of the model.
+   
+   * For SPECIAL_CONSIDERATIONS, 1 input layer and 3 hidden_nodes_layer of 18, 9 and 1 respectively using basic neural network and 28, 14 and 7 respectively using deep neural network.. The number of epochs for each were 100. This number was achieved based on try and error to increase the accuracy of the model.
+
  * Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
+   I was not able to achieve my target model performance when i used "IS_SUCCESSFUL" as the target, the best accuracy i got was 72.6% but when i changed my target  model to SPECIAL_CONSIDERATIONS, the best accuracy i got was 99.9% which makes SPECIAL_CONSIDERATIONS seem redundant.
+   
  * If you were to implement a different model to solve this classification problem, which would you choose? Why?
+   * Random forest, because the random forest requires less coding and computation resources and is able to train on the large dataset and predict values in seconds.
    
