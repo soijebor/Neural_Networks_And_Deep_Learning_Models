@@ -14,7 +14,7 @@
 ## ***Resources***
   
   * Data Source: bank_telemarketing.csv, diabetes.csv, hr_datasets.csv, HR-Employee-Attrition.csv, loan_status.csv, ramen-ratings.csv, charity_data.csv
-  * Software: Python 3.7.6, Anaconda 4.8.4, Jupyter Notebook 6.0.3
+  * Software: Python 3.7.6, Anaconda 4.8.4, Jupyter Notebook 6.0.3, Tensorflow 2.0.0
   
 ## ***Challenge Overview***
 
